@@ -37,6 +37,15 @@ const products = [
         link: "https://amzn.to/4i3Zooe"
     },
     {
+        id: 6,
+        title: "Casual Wear Dress for Women",
+        price: "₹415",
+        oldPrice: "₹1995",
+        category:"women",
+        img: "/img6.png",
+        link: "https://amzn.to/4iWWVwP"
+    },
+    {
         id: 5,
         title: "Men's Striped Slim Fit Cotton Casual Shirt with Spread Collar & Full Sleeves",
         price: "₹775",
@@ -44,6 +53,15 @@ const products = [
         category:"men",
         img: "/img5.png",
         link: "https://amzn.to/44dSWaF"
+    },
+    {
+        id: 7,
+        title: "VERO MODA Women's Above The Knee Dress",
+        price: "₹1584",
+        oldPrice: "₹1995",
+        category:"women",
+        img: "/img7.png",
+        link: "https://amzn.to/3FYksz5"
     },
 ];
 
